@@ -1,0 +1,1126 @@
+@media only screen and (min-width: 300px){
+   .conteiner{
+      text-align: center;
+      background-color: var(--cover);
+      display: grid;
+      grid-template-columns: 100% ;
+      grid-template-rows: 80px 300px 800px 500px 800px 200px 40px;
+     }
+     .mobile{
+      display: block;
+
+     }
+     .burger{
+      display: none !important;
+      width: 200px;
+      height: 100%;
+      background-color:var(--cover);
+    }
+    .burgerLi li{
+      font-size: 20px;
+      color: var(--fff);
+      font-family: var(--Quatrr);
+      list-style-type: none;
+      padding: 30px;
+      border-bottom: solid 2px;
+    }
+    .burger.show {
+      display: flex !important;
+      position: fixed;
+      top: 0;
+      right: 0;
+      transition: 2s;
+    }
+     .decktop{
+      display: none;
+     }
+     /* header css */
+     .comfort{
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      height: 10vh;
+     }
+     .box1 h1 {
+      color: var(--fff);
+      font-family: var(--Quatrr);
+     }
+     hr{
+      width: 50px;
+      border: solid var(--F2C94C);
+      display: flex;
+      justify-content: center;
+     }
+     /* nav css */
+     .navdiv p {
+       color: var(--fff);
+       font-family: var(--Quatrr);
+       padding: 20px;
+     }
+     .navdiv  h1{
+       color: var(--fff);
+       font-family: var(--Quatrr);
+       font-size: 30px;
+       border-bottom: 1px solid var(--F2C94C);
+       padding: 10px;
+     }
+     /* secrion1 css */
+     .box3 h1{
+      color: var(--fff);
+      font-family: var(--Quatrr);
+      font-size: 30px;
+      border-bottom: 3px solid var(--F2C94C);
+     }
+     .box3 p{
+      color: var(--fff);
+      font-family: var(--ruda);
+
+     }
+     /* article1 css */
+     .us{
+      color: var(--fff);
+      font-size: 30px;
+     }
+     .findus{
+      color: var(--fff);
+      font-family: var(--ruda);
+      
+     }
+     /* article2 css */
+     .menu2{
+      color: var(--fff);
+      font-family: var(--ruda);
+     }
+     .butom{
+      display: none;
+     }
+     .logos{
+      display: flex;
+      justify-content: space-evenly;
+     }
+     footer{
+      color: var(--fff);
+     }
+   }
+@media only screen and (min-width: 480px){
+   .conteiner{
+      text-align: center;
+      background-color: var(--cover);
+      display: grid;
+      grid-template-columns: 100% ;
+      grid-template-rows: 80px 200px 500px 500px 800px 200px 40px;
+     }
+     .mobile{
+      display: block;
+
+     }
+     .burger{
+      display: none;
+      width: 300px;
+      height: 100%;
+      background-color:var(--cover);
+    }
+    .burgerLi li{
+      font-size: 20px;
+      color: var(--fff);
+      font-family: var(--Quatrr);
+      list-style-type: none;
+      padding: 30px;
+      border-bottom: solid 2px;
+    }
+    .burger.show {
+      display: flex;
+      position: fixed;
+      top: 0;
+      right: 0;
+      transition: 2s;
+    }
+     .decktop{
+      display: none;
+     }
+     /* header css */
+     .comfort{
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      height: 10vh;
+     }
+     .box1 h1 {
+      color: var(--fff);
+      font-family: var(--Quatrr);
+     }
+     hr{
+      width: 50px;
+      border: solid var(--F2C94C);
+      display: flex;
+      justify-content: center;
+     }
+     /* nav css */
+     .navdiv  {
+       color: var(--fff);
+       font-family: var(--Quatrr);
+     }
+     /* secrion1 css */
+     .box3{
+      color: var(--fff);
+      font-family: var(--ruda);
+     }
+     /* article1 css */
+     .us{
+      color: var(--fff);
+     }
+     .findus{
+      color: var(--fff);
+      font-family: var(--ruda);
+     }
+     /* article2 css */
+     .menu2{
+      color: var(--fff);
+      font-family: var(--ruda);
+     }
+     .butom{
+      display: none;
+     }
+     .logos{
+      display: flex;
+      justify-content: space-evenly;
+     }
+     footer{
+      color: var(--fff);
+     }
+}
+@media only screen and (min-width: 540px){
+   .conteiner{
+      text-align: center;
+      background-color: var(--cover);
+      display: grid;
+      grid-template-columns: 100% ;
+      grid-template-rows: 100px 200px 1000px 600px 800px 200px 40px;
+     }
+     .mobile{
+      display: block;
+
+     }
+     .burger{
+      display: none;
+      width: 400px;
+      height: 100%;
+      background-color:var(--cover);
+    }
+    .burgerLi li{
+      font-size: 20px;
+      color: var(--fff);
+      font-family: var(--Quatrr);
+      list-style-type: none;
+      padding: 30px;
+      border-bottom: solid 2px;
+    }
+    .burger.show {
+      display: flex;
+      position: fixed;
+      top: 0;
+      right: 0;
+      transition: 2s;
+    }
+     .decktop{
+      display: none;
+     }
+     /* header css */
+     .comfort{
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      height: 10vh;
+     }
+     .box1 h1 {
+      color: var(--fff);
+      font-family: var(--Quatrr);
+     }
+     hr{
+      width: 50px;
+      border: solid var(--F2C94C);
+      display: flex;
+      justify-content: center;
+     }
+     /* nav css */
+     .navdiv  {
+       color: var(--fff);
+       font-family: var(--Quatrr);
+     }
+     /* secrion1 css */
+     .box3{
+      color: var(--fff);
+      font-family: var(--ruda);
+     }
+     /* article1 css */
+     .us{
+      color: var(--fff);
+     }
+     .findus{
+      color: var(--fff);
+      font-family: var(--ruda);
+     }
+     /* article2 css */
+     .menu2{
+      color: var(--fff);
+      font-family: var(--ruda);
+     }
+     .butom{
+      display: none;
+     }
+     .logos{
+      display: flex;
+      justify-content: space-evenly;
+     }
+     footer{
+      color: var(--fff);
+     }
+}
+@media only screen and (min-width: 768px){
+   .conteiner{
+      text-align: center;
+      background-color: var(--cover);
+      display: grid;
+      grid-template-columns: 100% ;
+      grid-template-rows: 80px 200px 500px 500px 800px 200px 40px;
+     }
+     .mobile{
+      display: block;
+
+     }
+     .burger{
+      display: none;
+      width: 400px;
+      height: 100%;
+      background-color:var(--cover);
+    }
+    .burgerLi li{
+      font-size: 20px;
+      color: var(--fff);
+      font-family: var(--Quatrr);
+      list-style-type: none;
+      padding: 30px;
+      border-bottom: solid 2px;
+    }
+    .burger.show {
+      display: flex;
+      position: fixed;
+      top: 0;
+      right: 0;
+      transition: 2s;
+    }
+     .decktop{
+      display: none;
+     }
+     /* header css */
+     .comfort{
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      height: 10vh;
+     }
+     .box1 h1 {
+      color: var(--fff);
+      font-family: var(--Quatrr);
+     }
+     hr{
+      width: 50px;
+      border: solid var(--F2C94C);
+      display: flex;
+      justify-content: center;
+     }
+     /* nav css */
+     .navdiv  {
+       color: var(--fff);
+       font-family: var(--Quatrr);
+     }
+     /* secrion1 css */
+     .box3{
+      color: var(--fff);
+      font-family: var(--ruda);
+     }
+     /* article1 css */
+     .us{
+      color: var(--fff);
+     }
+     .findus{
+      color: var(--fff);
+      font-family: var(--ruda);
+     }
+     /* article2 css */
+     .menu2{
+      color: var(--fff);
+      font-family: var(--ruda);
+     }
+     .butom{
+      display: none;
+     }
+     .logos{
+      display: flex;
+      justify-content: space-evenly;
+     }
+     footer{
+      color: var(--fff);
+     }
+}
+@media only screen and (min-width: 900px){
+   .conteiner{
+      text-align: center;
+      background-color: var(--cover);
+      display: grid;
+      grid-template-columns: 100% ;
+      grid-template-rows: 80px 200px 500px 500px 800px 200px 40px;
+     }
+     .mobile{
+      display: block;
+
+     }
+   .burger{
+      display: none;
+      width: 400px;
+      height: 100%;
+      background-color:var(--cover);
+    }
+    .burgerLi li{
+      font-size: 20px;
+      color: var(--fff);
+      font-family: var(--Quatrr);
+      list-style-type: none;
+      padding: 30px;
+      border-bottom: solid 2px;
+    }
+    .burger.show {
+      display: flex;
+      position: fixed;
+      top: 0;
+      right: 0;
+      transition: 2s;
+    }
+     .decktop{
+      display: none;
+     }
+     /* header css */
+     .comfort{
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      height: 10vh;
+     }
+     .box1 h1 {
+      color: var(--fff);
+      font-family: var(--Quatrr);
+     }
+     hr{
+      width: 50px;
+      border: solid var(--F2C94C);
+      display: flex;
+      justify-content: center;
+     }
+     /* nav css */
+     .navdiv  {
+       color: var(--fff);
+       font-family: var(--Quatrr);
+     }
+     /* secrion1 css */
+     .box3{
+      color: var(--fff);
+      font-family: var(--ruda);
+     }
+     /* article1 css */
+     .us{
+      color: var(--fff);
+     }
+     .findus{
+      color: var(--fff);
+      font-family: var(--ruda);
+     }
+     /* article2 css */
+     .menu2{
+      color: var(--fff);
+      font-family: var(--ruda);
+     }
+     .butom{
+      display: none;
+     }
+     .logos{
+      display: flex;
+      justify-content: space-evenly;
+     }
+     footer{
+      color: var(--fff);
+     }
+}
+@media only screen and (min-width: 1000px){
+    .conteiner{
+     display: grid;
+     grid-template-columns: 1fr ;
+     grid-template-rows: 80px 944px 1024px 1024px 1024px 990px 80px;
+    }
+    .mobile{
+      display: none;
+
+     }
+     .burger{
+      display: none;
+    }
+
+    .show, .close, .menu {
+      display: none;
+    }
+     .decktop{
+      display: block;
+     }
+    /* header css */
+   header {
+    background-color: var(--cover);  
+   }
+   .comfort{
+      height: 10vh;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+   }
+   
+   .box1 h1{
+    font-size: 24px;
+    color: var(--fff);
+   }
+   .box1 ul{
+    display: flex;
+    font-size: 20px;
+    gap: 20px;
+    color: var(--fff);
+   }
+   .box1 li:nth-child(n+1):nth-child(-n+4):hover{
+    cursor: pointer;
+    color: var(--F2C94C);
+    border-bottom: 1px solid var(--F2C94C);
+   }
+   /* nav css */
+   nav{
+    background: url(../assets/img/pizza1.png) repeat ;
+   }
+   .box2{
+        display: grid;
+        place-items:center;
+         height: 100vh;
+        text-align: center;
+   }
+   .navdiv h1{
+        font-size: 72px;
+        font-family: var(--Quatrr);
+        color: var(--fff);
+        border-bottom: 2px solid var(--F2C94C);
+   }
+   .navdiv p{
+        font-size: 25px;
+        font-family: var(--ruda);
+        color: var(--fff);
+        line-height: 40px;
+   }
+    /* section1 css */
+   .section1{
+    background-color: black;
+   }
+   .content3{
+    height: 150vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   }
+   .box3{
+    text-align: center;
+   }
+   .box3 h1{
+    font-family: var(--Quatrr);
+    font-size: 60px;
+    font-weight: 400;
+    color: var(--fff);
+    border-bottom: 4px solid var(--F2C94C);
+   }
+   .box3 p{
+    font-family: var(--ruda);
+    font-size: 25px;
+    font-weight: 400;
+    color: var(--fff);
+   }
+   /* article1 css */
+   .article1{
+    background-color: black;
+   }
+   .content4{
+     height: 90vh;
+     display: flex;
+     justify-content: space-evenly;
+     align-items: center;
+   }
+   .findus{
+    font-family: var(--ruda);
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 40px;
+    color: var(--fff);
+   }
+   .us{
+    color: var(--fff);
+    font-size: 60px;
+    font-family: var(--Quatrr);
+    font-weight: 400;
+    user-select: none;
+    cursor: no-drop;
+    animation: 10s us  linear infinite ;
+    border-bottom: 4px solid var(--F2C94C);
+   }
+   @keyframes us {
+     0%{
+        color: rgb(0, 255, 255);
+     }
+     50%{
+        color: rgb(0, 149, 255);
+     }
+     60% {
+        color: rgb(0, 200, 255);
+     }
+     70% {
+        color: rgb(79, 212, 249);
+     }
+     85% {
+        color: rgb(55, 205, 247);
+     }
+     90% {
+        color: rgb(28, 198, 246);
+     }
+     95% {
+        color: rgb(184, 213, 221);
+     }
+    100%{
+        color: rgb(160, 244, 244);
+    }
+
+   }
+   .us hr{
+     margin: 0 !important;
+     width: 400px !important;;
+   }
+   /* article2 css */
+   .article2{
+    background-color: var(--cover);
+
+   }
+   .menu2{
+      display: grid;
+      place-content: center;
+      height: 50vh;
+      text-align: center;
+   }
+   .menu2 h1{
+      font-family: var(--Quatrr);
+      font-size: 60px;
+      font-weight: 400;
+     color: var(--fff);
+     border-bottom: 2px solid var(--F2C94C);
+   }
+   .menu2 p{
+      font-family: var(--Quatrr);
+      font-size: 25px;
+      font-weight: 400;
+      line-height: 40px;
+     color: var(--fff);
+   }
+   .imgflex{
+      display: flex;
+      justify-content: space-evenly;
+      margin-top: 30px;
+   }
+   .butom{
+      display: block;
+      background-color: var(--cover);
+      border: solid var(--F2C94C);
+      width:min-content;
+      padding: 10px;
+      color: var(--fff);
+      margin-left: 425px;
+      margin-top: 100px;
+   }
+   .butom:hover{
+      background-color: var(--F2C94C);
+      color: aliceblue;
+      cursor: pointer;
+      animation: shake 200ms 2;
+
+   }
+   @keyframes shake {
+      0%,100% { translate: 0;}
+      25%{
+         translate: 0.125rem;
+
+      }
+      75%{
+         translate: -0.125rem;
+      }
+   }
+   /* section2 */
+   .section2{
+    background:url(../assets/img/pizza2.png);
+   }
+   .logos{
+      cursor: pointer;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+   }
+   /* footer css */
+   footer{
+    background-color:var(--cover);
+    color: var(--fff);
+    display: grid;
+    place-items: center;
+   }
+}
+@media only screen and (min-width: 1400px){
+   .conteiner{
+      display: grid;
+      grid-template-columns: 1fr ;
+      grid-template-rows: 80px 944px 1024px 1024px 1024px 990px 80px;
+     }
+     .burger{
+      display: none;
+    }
+
+    .show, .close, .menu {
+      display: none;
+    }
+     .decktop{
+      display: block;
+     }
+     /* header css */
+    header {
+     background-color: var(--cover);  
+    }
+    .comfort{
+       height: 10vh;
+       display: flex;
+       justify-content: space-around;
+       align-items: center;
+    }
+    
+    .box1 h1{
+     font-size: 24px;
+     color: var(--fff);
+    }
+    .box1 ul{
+     display: flex;
+     font-size: 20px;
+     gap: 20px;
+     color: var(--fff);
+    }
+    .box1 li:nth-child(n+1):nth-child(-n+4):hover{
+     cursor: pointer;
+     color: var(--F2C94C);
+     border-bottom: 1px solid var(--F2C94C);
+    }
+    /* nav css */
+    nav{
+     background: url(../assets/img/pizza1.png) repeat ;
+    }
+     hr{
+     border: 3px solid var(--F2C94C);
+     margin: 20px;
+    }
+    .box2{
+         display: grid;
+         place-items:center;
+          height: 100vh;
+         text-align: center;
+    }
+    .navdiv h1{
+         font-size: 72px;
+         font-family: var(--Quatrr);
+         color: var(--fff);
+    }
+    .navdiv p{
+         font-size: 25px;
+         font-family: var(--ruda);
+         color: var(--fff);
+         line-height: 40px;
+    }
+     /* section1 css */
+    .section1{
+     background-color: black;
+    }
+    .content3{
+     height: 150vh;
+     display: flex;
+     justify-content: space-around;
+     align-items: center;
+    }
+    .box3{
+     text-align: center;
+    }
+    .box3 h1{
+     font-family: var(--Quatrr);
+     font-size: 60px;
+     font-weight: 400;
+     color: var(--fff);
+    }
+    .box3 p{
+     font-family: var(--ruda);
+     font-size: 25px;
+     font-weight: 400;
+     color: var(--fff);
+    }
+    /* article1 css */
+    .article1{
+     background-color: black;
+    }
+    .content4{
+      height: 90vh;
+      display: flex;
+      justify-content: space-evenly;
+      align-items: center;
+    }
+    .findus{
+     font-family: var(--ruda);
+     font-size: 25px;
+     font-weight: 400;
+     line-height: 40px;
+     color: var(--fff);
+    }
+    .us{
+     color: var(--fff);
+     font-size: 60px;
+     font-family: var(--Quatrr);
+     font-weight: 400;
+     user-select: none;
+     cursor: no-drop;
+     animation: 10s us  linear infinite ;
+    }
+    @keyframes us {
+      0%{
+         color: rgb(0, 255, 255);
+      }
+      50%{
+         color: rgb(0, 149, 255);
+      }
+      60% {
+         color: rgb(0, 200, 255);
+      }
+      70% {
+         color: rgb(79, 212, 249);
+      }
+      85% {
+         color: rgb(55, 205, 247);
+      }
+      90% {
+         color: rgb(28, 198, 246);
+      }
+      95% {
+         color: rgb(184, 213, 221);
+      }
+     100%{
+         color: rgb(160, 244, 244);
+     }
+ 
+    }
+    .us hr{
+      margin: 0 !important;
+      width: 400px !important;;
+    }
+    /* article2 css */
+    .article2{
+     background-color: var(--cover);
+ 
+    }
+    .menu2{
+       display: grid;
+       place-content: center;
+       height: 50vh;
+       text-align: center;
+    }
+    .menu2 h1{
+       font-family: var(--Quatrr);
+       font-size: 60px;
+       font-weight: 400;
+      color: var(--fff);
+    }
+    .menu2 p{
+       font-family: var(--Quatrr);
+       font-size: 25px;
+       font-weight: 400;
+       line-height: 40px;
+      color: var(--fff);
+    }
+    .imgflex{
+       display: flex;
+       justify-content: space-evenly;
+       margin-top: 30px;
+    }
+    .butom{
+       background-color: var(--cover);
+       border: solid var(--F2C94C);
+       width:min-content;
+       padding: 10px;
+       color: var(--fff);
+       margin-left: 725px;
+       margin-top: 100px;
+    }
+    .butom:hover{
+       background-color: var(--F2C94C);
+       color: aliceblue;
+       cursor: pointer;
+       animation: shake 200ms 2;
+ 
+    }
+    @keyframes shake {
+       0%,100% { translate: 0;}
+       25%{
+          translate: 0.125rem;
+ 
+       }
+       75%{
+          translate: -0.125rem;
+       }
+    }
+    /* section2 */
+    .section2{
+     background:url(../assets/img/pizza2.png);
+    }
+    .logos{
+       cursor: pointer;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       height: 100vh;
+    }
+    /* footer css */
+    footer{
+     background-color:var(--cover);
+     color: var(--fff);
+     display: grid;
+     place-items: center;
+    }
+}
+@media only screen and (min-width: 1900px){
+   .conteiner{
+      display: grid;
+      grid-template-columns: 1fr ;
+      grid-template-rows: 80px 944px 1024px 1024px 1024px 990px 80px;
+     }
+     .burger{
+      display: none;
+    }
+
+    .show, .close, .menu {
+      display: none;
+    }
+     .decktop{
+      display: block;
+     }
+     /* header css */
+    header {
+     background-color: var(--cover);  
+    }
+    .comfort{
+       height: 10vh;
+       display: flex;
+       justify-content: space-around;
+       align-items: center;
+    }
+    
+    .box1 h1{
+     font-size: 24px;
+     color: var(--fff);
+    }
+    .box1 ul{
+     display: flex;
+     font-size: 20px;
+     gap: 20px;
+     color: var(--fff);
+    }
+    .box1 li:nth-child(n+1):nth-child(-n+4):hover{
+     cursor: pointer;
+     color: var(--F2C94C);
+     border-bottom: 1px solid var(--F2C94C);
+    }
+    /* nav css */
+    nav{
+     background: url(../assets/img/pizza1.png) repeat ;
+    }
+     hr{
+     border: 3px solid var(--F2C94C);
+     margin: 20px;
+    }
+    .box2{
+         display: grid;
+         place-items:center;
+          height: 100vh;
+         text-align: center;
+    }
+    .navdiv h1{
+         font-size: 72px;
+         font-family: var(--Quatrr);
+         color: var(--fff);
+    }
+    .navdiv p{
+         font-size: 25px;
+         font-family: var(--ruda);
+         color: var(--fff);
+         line-height: 40px;
+    }
+     /* section1 css */
+    .section1{
+     background-color: black;
+    }
+    .content3{
+     height: 150vh;
+     display: flex;
+     justify-content: space-around;
+     align-items: center;
+    }
+    .box3{
+     text-align: center;
+    }
+    .box3 h1{
+     font-family: var(--Quatrr);
+     font-size: 60px;
+     font-weight: 400;
+     color: var(--fff);
+    }
+    .box3 p{
+     font-family: var(--ruda);
+     font-size: 25px;
+     font-weight: 400;
+     color: var(--fff);
+    }
+    /* article1 css */
+    .article1{
+     background-color: black;
+    }
+    .content4{
+      height: 90vh;
+      display: flex;
+      justify-content: space-evenly;
+      align-items: center;
+    }
+    .findus{
+     font-family: var(--ruda);
+     font-size: 25px;
+     font-weight: 400;
+     line-height: 40px;
+     color: var(--fff);
+    }
+    .us{
+     color: var(--fff);
+     font-size: 60px;
+     font-family: var(--Quatrr);
+     font-weight: 400;
+     user-select: none;
+     cursor: no-drop;
+     animation: 10s us  linear infinite ;
+    }
+    @keyframes us {
+      0%{
+         color: rgb(0, 255, 255);
+      }
+      50%{
+         color: rgb(0, 149, 255);
+      }
+      60% {
+         color: rgb(0, 200, 255);
+      }
+      70% {
+         color: rgb(79, 212, 249);
+      }
+      85% {
+         color: rgb(55, 205, 247);
+      }
+      90% {
+         color: rgb(28, 198, 246);
+      }
+      95% {
+         color: rgb(184, 213, 221);
+      }
+     100%{
+         color: rgb(160, 244, 244);
+     }
+ 
+    }
+    .us hr{
+      margin: 0 !important;
+      width: 400px !important;;
+    }
+    /* article2 css */
+    .article2{
+     background-color: var(--cover);
+ 
+    }
+    .menu2{
+       display: grid;
+       place-content: center;
+       height: 50vh;
+       text-align: center;
+    }
+    .menu2 h1{
+       font-family: var(--Quatrr);
+       font-size: 60px;
+       font-weight: 400;
+      color: var(--fff);
+    }
+    .menu2 p{
+       font-family: var(--Quatrr);
+       font-size: 25px;
+       font-weight: 400;
+       line-height: 40px;
+      color: var(--fff);
+    }
+    .imgflex{
+       display: flex;
+       justify-content: space-evenly;
+       margin-top: 30px;
+    }
+    .butom{
+       background-color: var(--cover);
+       border: solid var(--F2C94C);
+       width:min-content;
+       padding: 10px;
+       color: var(--fff);
+       margin-left: 725px;
+       margin-top: 100px;
+    }
+    .butom:hover{
+       background-color: var(--F2C94C);
+       color: aliceblue;
+       cursor: pointer;
+       animation: shake 200ms 2;
+ 
+    }
+    @keyframes shake {
+       0%,100% { translate: 0;}
+       25%{
+          translate: 0.125rem;
+ 
+       }
+       75%{
+          translate: -0.125rem;
+       }
+    }
+    /* section2 */
+    .section2{
+     background:url(../assets/img/pizza2.png);
+    }
+    .logos{
+       cursor: pointer;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       height: 100vh;
+    }
+    /* footer css */
+    footer{
+     background-color:var(--cover);
+     color: var(--fff);
+     display: grid;
+     place-items: center;
+    }
+}
